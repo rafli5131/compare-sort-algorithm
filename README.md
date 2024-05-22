@@ -22,7 +22,7 @@ cd compare-sort-algorithm
     
 ## Result Graph
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Graph](https://github.com/rafli5131/compare-sort-algorithm/blob/main/result.png?raw=true)
 
 
 ## Authors
